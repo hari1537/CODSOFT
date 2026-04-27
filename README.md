@@ -3,14 +3,14 @@
 This repository contains the tasks completed as part of the CODSOFT Java Development Internship.
 
 # Completed Tasks
-#Task 1 : ATM System
+#Task 2 : ATM System
 - PIN Authentication
 - Deposit & Withdrawal
 - Balance Check
 - Transaction History
 - Limits (₹5000 per withdrawal, ₹1,00,000 max limit)
 
-# Task 2: Student Grade Calculator
+#Task 3 : Student Grade Calculator
 - Input marks for subjects
 - Calculate total marks
 - Calculate average percentage
@@ -31,5 +31,5 @@ This repository contains the tasks completed as part of the CODSOFT Java Develop
 
 ---
 
-## 👩‍💻 Author
-Hasini
+# Author
+Harika Chowdary
