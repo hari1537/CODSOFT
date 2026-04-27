@@ -8,7 +8,7 @@ This repository contains the tasks completed as part of the CODSOFT Java Develop
 - Deposit & Withdrawal
 - Balance Check
 - Transaction History
-- Limits (₹5000 per withdrawal, ₹1,00,000 max limit)
+- Limits (₹5000 per withdrawl, ₹1,00,000 max limit)
 
 #Task 3 : Student Grade Calculator
 - Input marks for subjects
